@@ -4,9 +4,9 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
 
 ## **💻 Frameworks**
 
-- ### **Udemy - 📚 Formação Angular + SpringBoot (Em andamento)**
+- ### **Udemy - 📚 Desenvolvimento Web Avançado com PHP, Laravel e VueJs (Em andamento)**
 
   <details>
-  <summary> Fundamentos </summary>
+  <summary> Introudção a rotas, controllers e views </summary>
   
   </details>
