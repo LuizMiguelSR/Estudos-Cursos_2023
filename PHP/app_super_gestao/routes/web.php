@@ -1,6 +1,9 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\PrincipalController;
+use App\Http\Controllers\SobreNosController;
+use App\Http\Controllers\ContatoController;
 
 /*
 |--------------------------------------------------------------------------
@@ -13,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
+/*Route::get('/', function () {
     return 'Olá seja bem vindo ao cursos';
 });
 
@@ -24,13 +27,8 @@ Route::get('/sobre-nos', function () {
 Route::get('/contato', function () {
     return 'Contato';
 });
+*/
 
-/*
-Verbos http
-get
-post
-put
-patch
-delete
-options
-
+Route::get('/', [PrincipalController::class, 'principal']);
+Route::get('/sobre-nos', [SobreNosController::class, 'sobre']);
+Route::get('/contato', [ContatoController::class, 'contato']);
