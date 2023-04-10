@@ -27,6 +27,7 @@ Route::get('/sobre-nos', function () {
 Route::get('/contato', function () {
     return 'Contato';
 });
+contato
 */
 
 Route::get('/', [PrincipalController::class, 'principal']);
