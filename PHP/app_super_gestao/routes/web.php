@@ -27,16 +27,9 @@ Route::get('/sobre-nos', function () {
 Route::get('/contato', function () {
     return 'Contato';
 });
-*/
 
-Route::get('/', [PrincipalController::class, 'principal']);
+nome, categoria, assunto, mensagem
 
-Route::get('/sobre-nos', [SobreNosController::class, 'sobre']);
-
-Route::get('/contato', [ContatoController::class, 'contato']);
-// nome, categoria, assunto, mensagem
-
-/*
 Paraêmetros opcionais e valores padrões
 
 Route::get('/contato/{nome?}/{categoria?}/{assunto?}/{mensagem?}',
@@ -48,7 +41,6 @@ Route::get('/contato/{nome?}/{categoria?}/{assunto?}/{mensagem?}',
         echo "Estamos aqui: $nome - $categoria - $assunto - $mensagem";
     }
 );
-*/
 
 Route::get(
     '/contato/{nome}/{categoria_id}',
@@ -59,4 +51,10 @@ Route::get(
         echo "Estamos aqui: $nome - $categoria_id";
     }
 )->where('categoria_id', '[0-9]+')->where('nome', '[A-Za-z]+');
+*/
 
+Route::get('/', [PrincipalController::class, 'principal']);
+
+Route::get('/sobre-nos', [SobreNosController::class, 'sobre']);
+
+Route::get('/contato', [ContatoController::class, 'contato']);
