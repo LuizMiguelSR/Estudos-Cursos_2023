@@ -58,3 +58,8 @@ Route::get('/', [PrincipalController::class, 'principal']);
 Route::get('/sobre-nos', [SobreNosController::class, 'sobre']);
 
 Route::get('/contato', [ContatoController::class, 'contato']);
+
+Route::get('/login', function(){ return 'Login'; });
+Route::get('/clientes', function(){ return 'Clientes'; });
+Route::get('/fonecedores', function(){ return 'Fonecedores'; });
+Route::get('/produtos', function(){ return 'Produtos'; });
