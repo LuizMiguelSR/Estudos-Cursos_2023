@@ -23,5 +23,6 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Tratando parâmetros de rotas com expressões regulares](https://github.com/LuizMiguelSR/Cursos-2023/commit/c3f342aeb995750d7423314bb19c43c91484ea81);
   - [Criando o Menu de Navegação](https://github.com/LuizMiguelSR/Cursos-2023/commit/5265747ab1afdbc37662b2cbe74a1f9fae298a0e);
   - [Implementando as rotas login, cliente, fornecedores e produtos](/PHP/app_super_gestao/routes/web.php);
+  - [Agrupando rotas](/PHP/app_super_gestao/routes/web.php);
 
   </details>
