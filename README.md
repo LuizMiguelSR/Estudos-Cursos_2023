@@ -24,5 +24,6 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Criando o Menu de Navegação](https://github.com/LuizMiguelSR/Cursos-2023/commit/5265747ab1afdbc37662b2cbe74a1f9fae298a0e);
   - [Implementando as rotas login, cliente, fornecedores e produtos](/PHP/app_super_gestao/routes/web.php);
   - [Agrupando rotas](/PHP/app_super_gestao/routes/web.php);
+  - [Nomeando rotas](https://github.com/LuizMiguelSR/Cursos-2023/commit/5ee36696ae92f3ccd3203bf2e6e8f7367d4efcb9);
 
   </details>
