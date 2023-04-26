@@ -26,5 +26,6 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Agrupando rotas](/PHP/app_super_gestao/routes/web.php);
   - [Nomeando rotas](https://github.com/LuizMiguelSR/Cursos-2023/commit/5ee36696ae92f3ccd3203bf2e6e8f7367d4efcb9);
   - [Redirecionando rotas](/PHP/app_super_gestao/routes/web.php);
+  - [Rotas de contingências](/PHP/app_super_gestao/routes/web.php);
 
   </details>
