@@ -29,3 +29,10 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Rotas de contingências](/PHP/app_super_gestao/routes/web.php);
 
   </details>
+
+  <details>
+  <summary> Avançando com controladores (Controllers) e visualizações (Views) </summary>
+
+  - [Encaminhando parâmetros das rotas para o controlador](https://github.com/LuizMiguelSR/Cursos-2023/commit/d446bf4159d632ad69c066d4244b7313308a976a);
+
+  </details>
