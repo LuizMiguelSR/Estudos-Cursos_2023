@@ -35,4 +35,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
 
   - [Encaminhando parâmetros das rotas para o controlador](https://github.com/LuizMiguelSR/Cursos-2023/commit/d446bf4159d632ad69c066d4244b7313308a976a);
   - [Encaminhando parâmetros do controlador para visualização](https://github.com/LuizMiguelSR/Cursos-2023/commit/bdac69e269bf93eb65340b4a0a6445db21035a17);
+  - [Blade: Incluindo comentários e blocos PHP puros](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/66b9ebc7383ad29ce2c717ae521038d1b9222ca9);
   </details>
