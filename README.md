@@ -42,4 +42,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Blade: @empty](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/2351b827e1b74a0b2bee9d39e1736204b0e89162);
   - [Operador Ternário](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/5d82b6a54061d78eb68a446f3054249f0f1d6b7d);
   - [Operador condicional de valor defult (??)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/0080784405568a23ac1ff8772b120e993580b838);
+  - [Blade: @switch/case](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/14295ed5d307534558eb144dd89ba92f846284d6);
   </details>
