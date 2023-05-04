@@ -39,4 +39,6 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Blade: @if/@else](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/30f4ab86a46e55f9df214455e60ac6ff6b25c43e);
   - [Blade: @unless](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/79a77d93522821e079732998b3b2b430f9ef92ff);
   - [Blade: @isset](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/23dbbfe19aaf414f838ce6fffcb05ce4e1793c17);
+  - [Blade: @empty](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/2351b827e1b74a0b2bee9d39e1736204b0e89162);
+  - [Blade: @isset](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/5d82b6a54061d78eb68a446f3054249f0f1d6b7d);
   </details>
