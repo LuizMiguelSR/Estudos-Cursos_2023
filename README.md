@@ -38,4 +38,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Blade: Incluindo comentários e blocos PHP puros](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/66b9ebc7383ad29ce2c717ae521038d1b9222ca9);
   - [Blade: @if/@else](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/30f4ab86a46e55f9df214455e60ac6ff6b25c43e);
   - [Blade: @unless](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/79a77d93522821e079732998b3b2b430f9ef92ff);
+  - [Blade: @isset](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/23dbbfe19aaf414f838ce6fffcb05ce4e1793c17);
   </details>
