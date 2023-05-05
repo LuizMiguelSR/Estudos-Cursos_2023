@@ -10,13 +10,13 @@
 
 @isset($fornecedores)
     @forelse($fornecedores as $indice => $fornecedor)
-        Fornecedor: {{ $fornecedor['nome'] }}
+        Fornecedor: @{{ $fornecedor['nome'] }}
         <br>
-        Status: {{ $fornecedor['status'] }}
+        Status: @{{ $fornecedor['status'] }}
         <br>
-        CNPJ: {{ $fornecedor['cnpj'] ?? '' }}
+        CNPJ: @{{ $fornecedor['cnpj'] ?? '' }}
         <br>
-        Telefone: ({{ $fornecedor['ddd'] ?? '' }}) {{ $fornecedor['telefone'] ?? '' }}
+        Telefone: (@{{ $fornecedor['ddd'] ?? '' }}) @{{ $fornecedor['telefone'] ?? '' }}
         <hr>
         @empty
             Não existem fornecedores cadastrados!!!
