@@ -44,4 +44,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Operador condicional de valor defult (??)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/0080784405568a23ac1ff8772b120e993580b838);
   - [Blade: @switch/case](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/14295ed5d307534558eb144dd89ba92f846284d6);
   - [Blade: @for](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/91ac963165654280a1346a95a442337e5c697c10);
+  - [Blade: @while](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/084f834facdec4cad46d354a03724db3721da52d);
   </details>
