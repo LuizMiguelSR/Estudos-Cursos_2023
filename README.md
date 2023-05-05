@@ -47,4 +47,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Blade: @while](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/084f834facdec4cad46d354a03724db3721da52d);
   - [Blade: @foreach](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/fbe6e9965aca6343e1821197d9c0391c46924d9c);
   - [Blade: @forelse](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/f3b2681ce015b6b04ee3a19c9b80ed885c2b1744);
+  - [Escapando a tag de impressão do Blade](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/e071e658e74ae01b4bc2c55a761aec2202ae7fd3);
   </details>
