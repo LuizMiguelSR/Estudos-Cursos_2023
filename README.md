@@ -49,4 +49,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Blade: @forelse](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/f3b2681ce015b6b04ee3a19c9b80ed885c2b1744);
   - [Escapando a tag de impressão do Blade](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/e071e658e74ae01b4bc2c55a761aec2202ae7fd3);
   - [Blade: variável loop](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/a9106326e0505f48d83e9c6bb8263aa64dd85d1d);
+  - [Super Gestão - Melhorando o visual](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/15173925067c4f6b5f944ec763d4beaeea243d51);
   </details>
