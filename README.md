@@ -52,6 +52,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Super Gestão - Melhorando o visual](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/15173925067c4f6b5f944ec763d4beaeea243d51);
   - [Adicionando assets as views (helper asset)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/7142d230aaf983c9ea626c8791ecff85e3adad39);
   - [Adicionando arquivos CSS externos as páginas web](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/d88a3fbb8f406a54d491e88e10cd60f86bf75a19);
-  - [Template com @extends, @section e @yield #01](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/791eb2a10e12b2c71fa8ddc91a4428b95a83976e);
-  - [Template com @extends, @section e @yield #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/09f89a5d8e4614d58853267b960107b048a81898);
+  - [Blade: Template com @extends, @section e @yield #01](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/791eb2a10e12b2c71fa8ddc91a4428b95a83976e);
+  - [Blade: Template com @extends, @section e @yield #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/09f89a5d8e4614d58853267b960107b048a81898);
+  - [Blade: Realizando include de views @include](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/f0f7fec34adb0a5d7a1ab715c2efb0540dbc4583);
   </details>
