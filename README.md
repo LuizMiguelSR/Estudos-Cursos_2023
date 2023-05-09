@@ -57,4 +57,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Blade: Realizando include de views @include](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/f0f7fec34adb0a5d7a1ab715c2efb0540dbc4583);
   - [Super Gestão - Enviando o formulário de contato](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/eaa9d692404d4dd7a1027b330efb71e7cba2e8f4);
   - [Enviando formulário de contato via POST](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/71a53937c5fca773534304c9df8441705385f030);
+  - [Blade: Componentes @component](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/84ce204168e433576cf1e4b89af7a5dbd4a32c0a);
   </details>
