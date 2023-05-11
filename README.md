@@ -65,4 +65,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <summary> Models, Migrations, Seeders, Factories, Banco de dados, Tinker e Eloquent ORM </summary>
 
   - [Criando o Model SiteContato](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/98280ac8fc4f404e96c0a0e1eae82ce4f78792bb);
+  - [Implementando a migration SiteContato](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/eadbc6ec6d981bccbe2e5d555a18d817b2dd8e96);
   </details>
