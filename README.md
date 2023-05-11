@@ -60,3 +60,9 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Blade: Componentes @component](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/84ce204168e433576cf1e4b89af7a5dbd4a32c0a);
   - [Blade: Enviando parâmetros para componentes](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/3aee57ab05525b31226fa095e88481f8365f391d);
   </details>
+
+  <details>
+  <summary> Models, Migrations, Seeders, Factories, Banco de dados, Tinker e Eloquent ORM </summary>
+
+  - [Criando o Model SiteContato](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/98280ac8fc4f404e96c0a0e1eae82ce4f78792bb);
+  </details>
