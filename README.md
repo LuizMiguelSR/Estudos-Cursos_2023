@@ -72,4 +72,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Migration - Modificadores Nullable e Default](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/6cdb73fc7a439e5bea75bfad56ae080a11cd2be6);
   - [Migration - Adicionando chaves estrangeiras (Relacionamento um para um)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/2a86bde623f3ce2c84f940bd4e4f3239f0c86467);
   - [Migration - Adicionando chaves estrangeiras (Relacionamento um para muitos)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/0fe945cfa25f5b213ee2e8159c709290931870c8);
+  - [Migration - Adicionando chaves estrangeiras (Relacionamento muitos para muitos)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/60ae2084859e78f7c33ee2f9c26205c83f35b002);
   </details>
