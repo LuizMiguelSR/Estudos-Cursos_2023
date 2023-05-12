@@ -68,4 +68,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Implementando a migration SiteContato](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/eadbc6ec6d981bccbe2e5d555a18d817b2dd8e96);
   - [Migration - Criando e executando a migration fornecedores](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/27122f976f005b072df7054067283e464a4b9861);
   - [Migration - Adicionando campos a uma tabela](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/0392e53eb8a3230a393738ef5461988873caf447);
+  - [Migration - Método up e down](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/4c95993d269c34e9f9aa3c93f5d9452ef782580a);
   </details>
