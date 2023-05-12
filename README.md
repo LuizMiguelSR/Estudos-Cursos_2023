@@ -70,4 +70,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Migration - Adicionando campos a uma tabela](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/0392e53eb8a3230a393738ef5461988873caf447);
   - [Migration - Método up e down](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/4c95993d269c34e9f9aa3c93f5d9452ef782580a);
   - [Migration - Modificadores Nullable e Default](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/6cdb73fc7a439e5bea75bfad56ae080a11cd2be6);
+  - [Migration - Adicionando chaves estrangeiras (Relacionamento um para um)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/2a86bde623f3ce2c84f940bd4e4f3239f0c86467);
   </details>
