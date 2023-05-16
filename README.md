@@ -74,4 +74,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Migration - Adicionando chaves estrangeiras (Relacionamento um para muitos)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/0fe945cfa25f5b213ee2e8159c709290931870c8);
   - [Migration - Adicionando chaves estrangeiras (Relacionamento muitos para muitos)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/60ae2084859e78f7c33ee2f9c26205c83f35b002);
   - [Migration - Modificador After](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/25e8a3d42b3910298b83eca1d62f5ea5ac88a7fe);
+  - [Eloquent - ajustando o nome da tabela no Model para um correto ORM](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/9a946e7d56dd80e8a6239385bb9f0cfe2e296c0d);
   </details>
