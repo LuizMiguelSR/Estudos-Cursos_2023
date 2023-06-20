@@ -76,4 +76,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Migration - Modificador After](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/25e8a3d42b3910298b83eca1d62f5ea5ac88a7fe);
   - [Eloquent - ajustando o nome da tabela no Model para um correto ORM](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/9a946e7d56dd80e8a6239385bb9f0cfe2e296c0d);
   - [Eloquent - inserindo registros com create e fillable](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/cf53c58c6f12f3a24b7d10fff56b6fbd5b51b8fa);
+  - [Eloquent - deletando registros com sofDelete](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/fed87585e4b62f7d143aff48e8e7ac4736337476);
   </details>
