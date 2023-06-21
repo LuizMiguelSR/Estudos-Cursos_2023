@@ -78,4 +78,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Eloquent - inserindo registros com create e fillable](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/cf53c58c6f12f3a24b7d10fff56b6fbd5b51b8fa);
   - [Eloquent - deletando registros com sofDelete](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/fed87585e4b62f7d143aff48e8e7ac4736337476);
   - [Seeders #01](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/5fa30855a12fc3c42fbaa578f666ab1a312837bf);
+  - [Seeders #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/f7937ae65ccce3bacd39279a06f539e47133e81e);
   </details>
