@@ -79,4 +79,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Eloquent - deletando registros com sofDelete](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/fed87585e4b62f7d143aff48e8e7ac4736337476);
   - [Seeders #01](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/5fa30855a12fc3c42fbaa578f666ab1a312837bf);
   - [Seeders #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/f7937ae65ccce3bacd39279a06f539e47133e81e);
+  - [Factories (semeando tabelas em massa com a depedência Faker)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/8646fca3e667d80f4d41b43bdcefa10d189fc7c0);
   </details>
