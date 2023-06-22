@@ -31,13 +31,26 @@ class ContatoController extends Controller
 
         //print_r($contato->getAttributes());
 
-        $contato->save(); */
+        $contato->save();
 
         $contato = new SiteContato();
         $contato->create($request->all());
 
-        //print_r($contato->getAttributes());
+        //print_r($contato->getAttributes()); */
 
         return view('site.contato', ['titulo' => 'Contato (teste)']);
+    }
+
+    public function salvar(Request $request)
+    {
+        // Realizar a validação dos dados do formulário recebido no request
+        $request->validate([
+            'nome' => 'required',
+            'telefone' => 'required',
+            'email' => 'required',
+            'motivo_contato' => 'required',
+            'mensagem' => 'required',
+        ]);
+        // SiteContato::create($request->all());
     }
 }
