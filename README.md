@@ -91,4 +91,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Validação de quantidade mínima e máxima de caracteres](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/6af3e5699db7ea6d1db7aad720851a5fe1df547b);
   - [Repopulando o formulário (Request Old Input) #01](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/ebed5b99c936ddf9933159df9ba779372909c18e);
   - [Repopulando o formulário (Request Old Input) #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/2e771c1633049f86bd391b54edddc3d38b6e85d3);
+  - [Ajustando o formulário de contato na rota principal](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/1ea042a6cc917b8ffb70cf1102754cfaaaa8be97);
   </details>
