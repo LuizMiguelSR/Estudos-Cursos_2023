@@ -94,4 +94,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Ajustando o formulário de contato na rota principal](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/1ea042a6cc917b8ffb70cf1102754cfaaaa8be97);
   - [Refactoring do projeto Super Gestão #01](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/32507d5d0b4a27ed957651b3a14f2610f01e52a5);
   - [Refactoring do projeto Super Gestão #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/0636da93b85095263dbcfe67de5cd71163467d64);
+  - [Validação de e-mail](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/c5bb50d9d5e2137ce0b796571299e92d072d0ddf);
   </details>
