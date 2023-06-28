@@ -98,4 +98,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Persistindo dados e redirecionando a rota](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/65b4868e9af23d45e6b5037f2c70803ce9e3fd74);
   - [Validação de campos únicos (unique)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/8d402995ffe3a3cc413cd06bfd7118f12f535d26);
   - [Customizando a apresentação dos erros de validação #01](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/e8e312b549f5e24d6fb16688b24225bd8b5238f7);
+  - [Customizando a apresentação dos erros de validação #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/2d2b2986e07778381909e1b68b5d88733db15995);
   </details>
