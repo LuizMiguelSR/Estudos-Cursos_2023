@@ -106,4 +106,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <summary> Middlewares </summary>
 
   - [Criando o meu primeiro middleware](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/6b2d53504998fd8aea93717616179bf022b04b03);
+  - [Criando o model LogAcesso e sua migration](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/6a57bf8ba1d2b644d353258a56c59e0afb867c2a);
   </details>
