@@ -109,4 +109,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Criando o model LogAcesso e sua migration](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/6a57bf8ba1d2b644d353258a56c59e0afb867c2a);
   - [Implementando middewares no método construtor dos controllers](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/f9a1fa443452ba84a1d784249d35ad2fa72a5e50);
   - [Implementando um middleware para todas as rotas](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/9ca769599b9a6db2b91d0244febb6dc58b0059d1);
+  - [Apelidando Middlewares](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/f67c291b9001af4d6e863f3340666f7601397edb);
   </details>
