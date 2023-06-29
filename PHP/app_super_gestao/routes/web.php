@@ -56,7 +56,7 @@ Route::get(
 )->where('categoria_id', '[0-9]+')->where('nome', '[A-Za-z]+');
 */
 
-Route::get('/', [PrincipalController::class, 'principal'])->name('site.index');
+Route::get('/', [PrincipalController::class, 'principal'])->name('site.index')->middleware('log.acesso');
 
 Route::get('/sobre-nos', [SobreNosController::class, 'sobre'])->name('site.sobrenos');
 
