@@ -113,4 +113,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Encadeamento de middlewares (criando um middleware de autenticação)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/9b976a868a64d2b5e8c68363fa91099d729425f1);
   - [Adicionando middlewares a um grupo de rotas)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/a38a7afa2954539c34ab124ae58102f011f5e55c);
   - [Passando parâmetros para o middleware)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/1578a8949f86a78723cf7e8d61033e2df258d5fc);
+  - [Manipulando a resposta de uma requisição via middleware)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/96372f2a6d8d233c6b62c8850a33c09211e24bfb);
   </details>
