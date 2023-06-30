@@ -66,9 +66,15 @@ Route::post('/contato', [ContatoController::class, 'salvar'])->name('site.contat
 Route::get('/login', function(){ return 'Login'; })->name('site.login');
 
 Route::prefix('/app')->group(function() {
-    Route::get('/clientes', function(){ return 'Clientes'; })->name('app.cliente');
-    Route::get('/fornecedores', [FornecedorController::class, 'index'])->name('app.fornecedores');
-    Route::get('/produtos', function(){ return 'Produtos'; })->name('app.produtos');
+    Route::middleware('autenticacao')
+        ->get('/clientes', function(){ return 'Clientes'; })
+        ->name('app.cliente');
+    Route::middleware('autenticacao')
+        ->get('/fornecedores', [FornecedorController::class, 'index'])
+        ->name('app.fornecedores');
+    Route::middleware('autenticacao')
+        ->get('/produtos', function(){ return 'Produtos'; })
+        ->name('app.produtos');
 });
 
 Route::get('/teste/{p1}/{p2}', [TesteController::class, 'teste'])->name('site.teste');
