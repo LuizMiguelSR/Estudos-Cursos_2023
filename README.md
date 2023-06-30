@@ -110,5 +110,6 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Implementando middewares no método construtor dos controllers](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/f9a1fa443452ba84a1d784249d35ad2fa72a5e50);
   - [Implementando um middleware para todas as rotas](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/9ca769599b9a6db2b91d0244febb6dc58b0059d1);
   - [Apelidando Middlewares](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/f67c291b9001af4d6e863f3340666f7601397edb);
-  - [AEncadeamento de middlewares (criando um middleware de autenticação)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/9b976a868a64d2b5e8c68363fa91099d729425f1);
+  - [Encadeamento de middlewares (criando um middleware de autenticação)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/9b976a868a64d2b5e8c68363fa91099d729425f1);
+  - [Adicionando middlewares a um grupo de rotas)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/a38a7afa2954539c34ab124ae58102f011f5e55c);
   </details>
