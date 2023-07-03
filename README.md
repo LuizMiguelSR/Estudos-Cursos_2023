@@ -120,4 +120,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <summary> Autenticação de usuários (revisando e praticando os assuntos abordados) </summary>
 
   - [Implementando o formulário de login](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/b73ebbb7567feb35a7fc025a95a43e699c7de4ae);
+  - [Recebendo os parâmetros de usuário e senha](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/9b46856af078a7a21eb0ba33fd53e2fcc13c87c5);
   </details>
