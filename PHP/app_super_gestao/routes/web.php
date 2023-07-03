@@ -64,7 +64,7 @@ Route::get('/sobre-nos', [SobreNosController::class, 'sobre'])->name('site.sobre
 Route::get('/contato', [ContatoController::class, 'contato'])->name('site.contato');
 Route::post('/contato', [ContatoController::class, 'salvar'])->name('site.contato');
 
-Route::get('/login', [LoginController::class, 'index'])->name('site.login');
+Route::get('/login/{erro?}', [LoginController::class, 'index'])->name('site.login');
 Route::post('/login', [LoginController::class, 'autenticar'])->name('site.login');
 
 Route::middleware('autenticacao:padrao,visitante')->prefix('/app')->group(function() {
