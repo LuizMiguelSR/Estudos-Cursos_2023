@@ -115,3 +115,9 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Passando parâmetros para o middleware)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/1578a8949f86a78723cf7e8d61033e2df258d5fc);
   - [Manipulando a resposta de uma requisição via middleware)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/96372f2a6d8d233c6b62c8850a33c09211e24bfb);
   </details>
+
+  <details>
+  <summary> Autenticação de usuários (revisando e praticando os assuntos abordados) </summary>
+
+  - [Implementando o formulário de login](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/b73ebbb7567feb35a7fc025a95a43e699c7de4ae);
+  </details>
