@@ -125,4 +125,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Redirect com envio de parâmetros - Apresentando mensagem de erro de login](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/ddc07361c02b330b0da07dd809af108167b54658);
   - [Iniciando a superglobal Session e validando o acesso de rotas protegidas](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/e3c84eea6e88a053d8af5501454950d793c835db);
   - [Implementando o menu de opções da área protegida da aplicação](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/ee04a211d62636a06fd33e20f8d39ca6bc55a610);
+  - [Adicionando a função logout](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/00782a4497db2b3c8f03f4a8bf059122dc7f95f1);
   </details>
