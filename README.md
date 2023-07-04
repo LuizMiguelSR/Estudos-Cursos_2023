@@ -123,4 +123,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Recebendo os parâmetros de usuário e senha](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/9b46856af078a7a21eb0ba33fd53e2fcc13c87c5);
   - [Validando a existência do usuário e senha no Banco de Dados](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/5596c72274bed112190763e8a502a1edf711dccf);
   - [Redirect com envio de parâmetros - Apresentando mensagem de erro de login](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/ddc07361c02b330b0da07dd809af108167b54658);
+  - [Iniciando a superglobal Session e validando o acesso de rotas protegidas](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/e3c84eea6e88a053d8af5501454950d793c835db);
   </details>
