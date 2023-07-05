@@ -132,4 +132,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <summary> Finalizando o projeto Super Gestão </summary>
 
   - [Implementando o cadastro de fornecedores #01](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/c7af5712a428e38b60d3608b2c7cdf15cf0a3abb);
+  - [Implementando o cadastro de fornecedores #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/a5f50d8e0d81f780ae8d86e8ef790993d734f836);
   </details>
