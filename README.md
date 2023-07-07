@@ -136,4 +136,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Implementando o cadastro de fornecedores #03](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/957d71f321683edf7ade7bf3f621e9cf81d750f9);
   - [Implementando o cadastro de fornecedores #04 - Atualização de registros](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/b5afac22ef58d3cb7b3baae8a100c1f113fa3e5f);
   - [Paginação de registros](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/23152d122de7cc3950488f303ca55c48844240c1);
+  - [Paginação de registros - Métodos count(), total(), firstItem() e lastItem()](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/3cca6991c13c47bee9e25a2176c245911c154a22);
   </details>
