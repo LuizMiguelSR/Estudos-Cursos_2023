@@ -139,4 +139,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Paginação de registros - Métodos count(), total(), firstItem() e lastItem()](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/3cca6991c13c47bee9e25a2176c245911c154a22);
   - [Implementando o cadastro de fornecedores #05 - Remoção de registros](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/ecc007f1911799e25b8558183a2a06b7d2a4159e);
   - [Controladores com resources](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/ba0e02e90fbb6532f33d361ea287ea97881140db);
+  - [Criando rotas associadas aos resources de um controlador](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/3340c6ff332e2128ccbcb32181d1a67dec7919ae);
   </details>
