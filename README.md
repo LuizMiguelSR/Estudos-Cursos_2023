@@ -141,4 +141,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Controladores com resources](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/ba0e02e90fbb6532f33d361ea287ea97881140db);
   - [Criando rotas associadas aos resources de um controlador](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/3340c6ff332e2128ccbcb32181d1a67dec7919ae);
   - [Implementando o cadastro de produtos (index)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/aec3c3d5b4176a1f2169c136f843b44f3871c92e);
+  - [Implementando o cadastro de produtos (create)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/477b23a213a99f4f85a5b8f07377cdbd0bbd1983);
   </details>
