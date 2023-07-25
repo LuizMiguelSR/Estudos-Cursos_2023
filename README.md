@@ -146,4 +146,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Implementando o cadastro de produtos (validando dados)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/c236d48c3df189386b461fa505b38c45957067f6);
   - [Implementando o cadastro de produtos (show)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/209b52407f14ee1d27f1cb02857b3818ced54a3e);
   - [Implementando o cadastro de produtos (edit)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/082d41997bd65da0f4106e7708877dcc825026cc);
+  - [Implementando o cadastro de produtos (update)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/252332d86de1776744f9fec4f91304dd22f3db02);
   </details>
