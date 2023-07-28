@@ -152,4 +152,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Modificando a forma de edição dos registros #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/74a0aa694a6ea67efde7477dd1a49b0a57c08db5);
   - [Eloquent ORM 1 para 1 - Implementando detalhes do produto #01](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/1e36cd3a59eea716ecf5cde5f67c57e34b043757);
   - [Eloquent ORM 1 para 1 - Implementando detalhes do produto #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/307e93c167e5e44ebee2b3b24a7a08ac3d25875f);
+  - [Eloquent ORM 1 para 1 - Implementando detalhes do produto #03](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/0bc48673504501dd2f23bb7202815ce7daed5928);
   </details>
