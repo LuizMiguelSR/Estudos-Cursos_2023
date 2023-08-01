@@ -16,22 +16,23 @@ class ProdutoController extends Controller
     {
         $produtos = Produto::paginate(10);
 
-        foreach ($produtos as $key => $produto) {
-            /* print_r($produto->getAttributes());
-            echo '<br>'; */
+        /* foreach ($produtos as $key => $produto) {
+            // print_r($produto->getAttributes());
+            // echo '<br>';
             // collection ProdutoDetalhe
             // ProdutoDetalhe
             $produtoDetalhe = ProdutoDetalhe::where('produto_id', $produto->id)->first();
             if(isset($produtoDetalhe)) {
-                /* print_r($produtoDetalhe->getAttributes()); */
+                // print_r($produtoDetalhe->getAttributes());
 
                 $produtos[$key]['comprimento'] = $produtoDetalhe->comprimento;
                 $produtos[$key]['largura'] = $produtoDetalhe->largura;
                 $produtos[$key]['altura'] = $produtoDetalhe->altura;
             }
-            /* echo '<hr>'; */
-        }
+            //echo '<hr>';
+        } */
 
+        
         return view('app.produto.index', ['produtos' => $produtos, 'request' => $request->all()]);
     }
 
