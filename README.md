@@ -156,4 +156,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Eloquent ORM 1 para 1 - Exibindo detalhes do produto](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/39c2c11fbf8dd8e0ec8402cfa90d504406d91a0f);
   - [Eloquent ORM 1 para 1 - Estabelecendo relacionamento 1 para 1 (hasOne)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/d7519c4457fb71d3c95905992402f30ad8ec4131);
   - [Eloquent ORM 1 para 1 - Exibindo informações do produto (belongsTo)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/965d6c37bcc8fb79f93d52efc56eb32a081d560f);
+  - [Eloquent ORM 1 para 1 - Utilizando o hasOne e belongsTo com nomes padronizados](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/de22d388af02dfef8a37a55763797c6a31e99cb0);
   </details>
