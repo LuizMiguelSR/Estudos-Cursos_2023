@@ -158,4 +158,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Eloquent ORM 1 para 1 - Exibindo informações do produto (belongsTo)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/965d6c37bcc8fb79f93d52efc56eb32a081d560f);
   - [Eloquent ORM 1 para 1 - Utilizando o hasOne e belongsTo com nomes padronizados](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/de22d388af02dfef8a37a55763797c6a31e99cb0);
   - [Extra - Lazy Loading vs Eager Loading #01](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/5be020963b2a178cd0b5dc3d08508cbbbdbbd2f4);
+  - [Extra - Lazy Loading vs Eager Loading #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/30f3ae8b1441c0d5f9cbd574f716d3a733953cfc);
   </details>
