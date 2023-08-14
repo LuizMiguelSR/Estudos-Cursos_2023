@@ -159,8 +159,9 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Eloquent ORM 1 para 1 - Utilizando o hasOne e belongsTo com nomes padronizados](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/de22d388af02dfef8a37a55763797c6a31e99cb0);
   - [Extra - Lazy Loading vs Eager Loading #01](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/5be020963b2a178cd0b5dc3d08508cbbbdbbd2f4);
   - [Extra - Lazy Loading vs Eager Loading #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/30f3ae8b1441c0d5f9cbd574f716d3a733953cfc);
-  - [Eloquent ORM 1 para N - Criando o relacionamento entre Fornecedor e Produto](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/faf5543afb07aaf535570a4f8b910e5bf3b5ab51);
-  - [Eloquent ORM 1 para N - Exibindo mais informações do fornecedor (belongsTo)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/d6ce3824a76476ee0940388f94f1cd0ac24f5b40);
+  - [Eloquent ORM 1 para N #01 - Criando o relacionamento entre Fornecedor e Produto](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/faf5543afb07aaf535570a4f8b910e5bf3b5ab51);
+  - [Eloquent ORM 1 para N #02 - Exibindo mais informações do fornecedor (belongsTo)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/d6ce3824a76476ee0940388f94f1cd0ac24f5b40);
   - [Extra - Extraindo mais informações do fornecedor](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/a9f77aa96c5eba05fa42bc7b8f0ce783283e7b67);
-  - [Eloquent ORM 1 para N - Estabelecendo relação 1 para N (hasMany)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/ab727759ee69b3dfda6b1df4350381105ab75940);
+  - [Eloquent ORM 1 para N #03 - Estabelecendo relação 1 para N (hasMany)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/ab727759ee69b3dfda6b1df4350381105ab75940);
+  - [Eloquent ORM 1 para N #04 - Associando fornecedores a produtos (Store e Update)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/a6d96ae19a1012344512cf234bda7766a7bbacda);
   </details>
