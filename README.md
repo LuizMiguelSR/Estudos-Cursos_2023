@@ -164,4 +164,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Extra - Extraindo mais informações do fornecedor](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/a9f77aa96c5eba05fa42bc7b8f0ce783283e7b67);
   - [Eloquent ORM 1 para N #03 - Estabelecendo relação 1 para N (hasMany)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/ab727759ee69b3dfda6b1df4350381105ab75940);
   - [Eloquent ORM 1 para N #04 - Associando fornecedores a produtos (Store e Update)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/a6d96ae19a1012344512cf234bda7766a7bbacda);
+  - [Eloquent ORM N para N #01 - Implementando os requisitos para o relacionamento](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/59ffe6077ae02848f8ba00fee0e5d5c87ba24187);
   </details>
