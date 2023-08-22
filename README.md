@@ -168,4 +168,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Eloquent ORM N para N #02 - Criando controladores e rotas para clientes, pedidos e pedidos produto](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/de63320833bdf450cda02e6f2da49538cba0e4b2);
   - [Eloquent ORM N para N #03 - Implementando a tela de listagem de clientes](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/d4998a0c612ee90eadd6f68581bb956ddbaa5c12);
   - [Eloquent ORM N para N #04 - Implementando a tela de cadastro de clientes](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/7435c659ff44722d104883af28d06d8cfbff5adc);
+  - [Eloquent ORM N para N #05 - Implementando a tela de listagem de pedidos](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/9c86b4ae837718f83f6f511b5b2d07f43f2b657a);
   </details>
