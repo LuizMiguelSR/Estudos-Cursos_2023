@@ -22,12 +22,13 @@
                             <th>Cliente</th>
                             <th></th>
                             <th></th>
+                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
                         @foreach ($pedidos as $pedido)
                             <tr>
-                                <td>{{ $pedido->nome }}</td>
+                                <td>{{ $pedido->id }}</td>
                                 <td>{{ $pedido->cliente_id }}</td>
                                 <td><a href="{{ route('pedido.show', ['pedido' => $pedido->id]) }}">Visualizar</td>
                                 <td>
