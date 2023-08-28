@@ -23,6 +23,7 @@
                             <th></th>
                             <th></th>
                             <th></th>
+                            <th></th>
                         </tr>
                     </thead>
                     <tbody>
@@ -30,6 +31,7 @@
                             <tr>
                                 <td>{{ $pedido->id }}</td>
                                 <td>{{ $pedido->cliente_id }}</td>
+                                <td><a href="{{ route('pedido-produto.create', ['pedido' => $pedido->id]) }}">Adicionar Produtos</td>
                                 <td><a href="{{ route('pedido.show', ['pedido' => $pedido->id]) }}">Visualizar</td>
                                 <td>
                                     <form id="form_{{ $pedido->id }}" method="POST" action="{{ route('pedido.destroy', ['pedido' => $pedido->id]) }}">
