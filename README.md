@@ -172,4 +172,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Eloquent ORM N para N #06 - Implementando a tela de cadastro de pedidos](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/d13796c5c6ef147bcdde193a432f7277bdfccdfa);
   - [Eloquent ORM N para N #07 - Implementando a tela de cadastro de produtos para um determinado pedido #01](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/b9e0a3c36399dace6291cb7526f84bd3de4c787c);
   - [Eloquent ORM N para N #08 - Implementando o relacionamento belongsToMany](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/844f14e8b18933aef4317ca5a0e883a67c0a7e96);
+  - [Eloquent ORM N para N #09 - Praticando um pouco mais o belongsToMany](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/8ec3566ec7e9816724dad675f1d98c76e86bb44a);
   </details>
