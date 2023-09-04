@@ -174,4 +174,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Eloquent ORM N para N #08 - Implementando o relacionamento belongsToMany](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/844f14e8b18933aef4317ca5a0e883a67c0a7e96);
   - [Eloquent ORM N para N #09 - Praticando um pouco mais o belongsToMany](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/8ec3566ec7e9816724dad675f1d98c76e86bb44a);
   - [Relacionamento N para N #01 - Coluna pivô da tabela de relacionamento (Pivot)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/748731c11739425f349957a426b801967b8ecdfa);
+  - [Relacionamento N para N #02 - Inserindo registros por meio do relacionamento](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/6168d033289572b0cceef43c6bcdd5ae41ad3e0b);
   </details>
