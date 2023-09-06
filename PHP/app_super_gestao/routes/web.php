@@ -96,6 +96,7 @@ Route::middleware('autenticacao:padrao,visitante')->prefix('/app')->group(functi
     // Route::resource('/pedido-produto', PedidoProdutoController::class);
     Route::get('pedido-produto/create/{pedido}', [PedidoProdutoController::class, 'create'])->name('pedido-produto.create');
     Route::post('pedido-produto/store/{pedido}', [PedidoProdutoController::class, 'store'])->name('pedido-produto.store');
+    Route::delete('pedido-produto.destroy/{pedido}/{produto}', [PedidoProdutoController::class, 'destroy'])->name('pedido-produto.destroy');
 });
 
 Route::get('/teste/{p1}/{p2}', [TesteController::class, 'teste'])->name('site.teste');
