@@ -183,4 +183,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <summary> Autenticação Web (Session) e Bootstrap (CSS) </summary>
 
   - [Iniciando o projeto de controle de tarefas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas);
+  - [Instalando o pacote laravel ui](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/1f6ba578c35d57ab413f191b62eaba11f2036a68);
   </details>
