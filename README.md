@@ -185,4 +185,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Iniciando o projeto de controle de tarefas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas);
   - [Instalando o pacote laravel ui](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/1f6ba578c35d57ab413f191b62eaba11f2036a68);
   - [Entendendo o pacote UI e iniciando a autenticação nativa do Laravel](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/5a1e010c5e55aa2a0afd78f508c8582416ed34e9);
+  - [Registrando novos usuários e efetuando login na aplicação](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/b916757fb4aa5c233c05159494baa9262e31e9ff);
   </details>
