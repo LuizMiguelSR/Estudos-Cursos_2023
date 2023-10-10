@@ -189,4 +189,10 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Validando campos de confirmação (confirmed) e mudando regras de senhas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/478d23912df018d59300ce23355f039ec9150508);
   - [Criando o model e o controller para Tarefa](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/19f54307f0a01ea4e50940a1c26151699b80442d);
   - [Implementando o middleware auth](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/ef2037dc7a028bd584717978e2ee4003a4d9310e);
+  - [Verificando se o usuário está logado dentro dos metódos do Controller](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/6f51b0b3b51fe546fa744caffb30c64f78f3082c);
+  </details>
+
+  <details>
+  <summary> Implementando o envio de e-mails e a exportação de arquivos XLSX, CSV e PDF </summary>
+  
   </details>
