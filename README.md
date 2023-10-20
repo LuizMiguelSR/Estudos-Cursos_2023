@@ -195,6 +195,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <details>
   <summary> Implementando o envio de e-mails e a exportação de arquivos XLSX, CSV e PDF </summary>
   
-  - [Criando um template de e-mail com markdown mailables](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/dd5b5aef05e5a66b95b2c0c092bd99efd6cdcb9d)
-  - [Enviando e-mails](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/ddae5d452223d6d01c9724db1902512b8bf01828)
+  - [Criando um template de e-mail com markdown mailables](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/dd5b5aef05e5a66b95b2c0c092bd99efd6cdcb9d);
+  - [Enviando e-mails](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/ddae5d452223d6d01c9724db1902512b8bf01828);
+  - [Publicando e customizando o template de e-mail](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/3d51687ad8f8cb75f2aa42ca38345986f562cf54);
   </details>
