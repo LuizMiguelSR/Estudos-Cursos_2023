@@ -198,4 +198,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Criando um template de e-mail com markdown mailables](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/dd5b5aef05e5a66b95b2c0c092bd99efd6cdcb9d);
   - [Enviando e-mails](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/ddae5d452223d6d01c9724db1902512b8bf01828);
   - [Publicando e customizando o template de e-mail](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/3d51687ad8f8cb75f2aa42ca38345986f562cf54);
+  - [Configurando o envio de e-mails (Reset Password) #02](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/3807dbc3b46f282855949d332e6a8e3cc734d9f2);
   </details>
