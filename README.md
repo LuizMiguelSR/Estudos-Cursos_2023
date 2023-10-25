@@ -200,4 +200,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Publicando e customizando o template de e-mail](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/3d51687ad8f8cb75f2aa42ca38345986f562cf54);
   - [Configurando o envio de e-mails (Reset Password) #02](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/3807dbc3b46f282855949d332e6a8e3cc734d9f2);
   - [Ajustando as políticas de senha no reset](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/dacd9cbf5316fab200dce1c035103a4f1249b863);
+  - [Verificação de e-mail (MustVerifyEmail)](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/d1d2d5cb7f6ecc1cf1e97cebd8c0806c964ebcae);
   </details>
