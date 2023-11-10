@@ -204,4 +204,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Customizando a view de verificação de e-mail](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/c5551f000a8986bdd28267e3e018d7a449158c9b);
   - [Customizando a mensagem de verificação de e-mail](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/6b6d2895ded2cb5f2cc7c357d27b65b7e92075c8);
   - [Cadastrando novas tarefas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/4e70bd350a1d141c088a3a37f0c526143f981678);
+  - [Enviando um e-mail de cadastro de nova tarefa e exibindo os dados da tarefa](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/884e35de73183b852c8c2b97d8865cca7d76050c);
   </details>
