@@ -206,4 +206,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Cadastrando novas tarefas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/4e70bd350a1d141c088a3a37f0c526143f981678);
   - [Enviando um e-mail de cadastro de nova tarefa e exibindo os dados da tarefa](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/884e35de73183b852c8c2b97d8865cca7d76050c);
   - [Associando um usuário a uma tarefa](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/42cc3faee5dd01df7a37d8d940b24361dd941f6c);
+  - [Listando as tarefas cadastradas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/e5af014d6c01fc7a1e8f9d2f82ddbf4e7c920159);
   </details>
