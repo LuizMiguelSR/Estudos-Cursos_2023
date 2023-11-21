@@ -210,4 +210,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Implementando a paginação de registros de tarefas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/f1f6ebed71d9f116da968411016ca6e81689d009);
   - [Modificando a rota home da aplicação (redirectTo)](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/f21e5d412b388f009cef56243b0774d52ffcc6a0);
   - [Atualizando registros de tarefas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/1540f86e84c9a3cf548aa4065ae9f146e014eb4d);
+  - [Validando se a tarefa pertence ao usuário antes de habilitar a edição](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/ad33b73bb18d086b90d7967b26b499dc684a8b15);
   </details>
