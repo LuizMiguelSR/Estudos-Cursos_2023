@@ -212,4 +212,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Atualizando registros de tarefas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/1540f86e84c9a3cf548aa4065ae9f146e014eb4d);
   - [Validando se a tarefa pertence ao usuário antes de habilitar a edição](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/ad33b73bb18d086b90d7967b26b499dc684a8b15);
   - [Removendo registros de tarefas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/c1d1ad53f4e683c611adbca7229b07137300f256);
+  - [Melhorando a navegação](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/2f0102df1eaf583f7d32ba83603036def97620f7);
   </details>
