@@ -216,4 +216,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Verificando na View se o usuário está ou não logado](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/cc0cd32b710ba6dc9be1a765602f2f44ccc93a4b);
   - [Instalando o pacote Laravel Excel](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/146eb41b300e39e3ac21ed6a5465af3de1650d8a);
   - [Exportando um arquivo no formato xlsx com a relação de tarefas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/854bdb6601fcdf1d99686ee1f2d2418ac6c8f4f8);
+  - [Refactoring do relacionamento entre Users e Tarefas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/1ee1ad8bb2fa73b6541cc46841c93b9cf21737a0);
   </details>
