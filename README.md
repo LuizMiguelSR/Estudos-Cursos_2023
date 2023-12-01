@@ -218,4 +218,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Exportando um arquivo no formato xlsx com a relação de tarefas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/854bdb6601fcdf1d99686ee1f2d2418ac6c8f4f8);
   - [Refactoring do relacionamento entre Users e Tarefas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/1ee1ad8bb2fa73b6541cc46841c93b9cf21737a0);
   - [Exportando um arquivo no formato CSV com a relação de tarefas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/1e81eeeb36ee12b5401b04864c6725e4736aebac);
+  - [Exportando um arquivo no formato PDF com a relação de tarefas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/425ac250d6f245db224ac3f54e55e63e2f9949e0);
   </details>
