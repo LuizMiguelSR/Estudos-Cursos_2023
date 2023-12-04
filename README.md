@@ -222,4 +222,6 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Definindo títulos na exportação](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/3de3e28f8b9998f37ab015bd22e0b8e0140060a4);
   - [Manipulando os dados exportados linha por linha e formatando datas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/b4c00f5e587328c309a98bebd99259305fd7fe91);
   - [Instalando o pacote DOMPDF](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/6412ad156aaf012cf975cd32a1e05466d03d2a65);
+  - [Exportando um arquivo no formato PDF com o DOMPDF #01](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/c1b74446affbd6e138368780f8c1dfa431d7fa32);
+  - [Exportando um arquivo no formato PDF com o DOMPDF #02](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/7c49ffa17f14631d863d1644917a77b9ec2e55a4);
   </details>
