@@ -221,4 +221,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Exportando um arquivo no formato PDF com a relação de tarefas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/425ac250d6f245db224ac3f54e55e63e2f9949e0);
   - [Definindo títulos na exportação](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/3de3e28f8b9998f37ab015bd22e0b8e0140060a4);
   - [Manipulando os dados exportados linha por linha e formatando datas](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/b4c00f5e587328c309a98bebd99259305fd7fe91);
+  - [Instalando o pacote DOMPDF](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/6412ad156aaf012cf975cd32a1e05466d03d2a65);
   </details>
