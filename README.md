@@ -225,4 +225,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Exportando um arquivo no formato PDF com o DOMPDF #01](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/c1b74446affbd6e138368780f8c1dfa431d7fa32);
   - [Exportando um arquivo no formato PDF com o DOMPDF #02](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/7c49ffa17f14631d863d1644917a77b9ec2e55a4);
   - [Adicionando suporte UTF-8, estilos CSS e quebras de páginas nas Views de PDF](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/c56c4501c1684791577dcf4fc91d80e6b10c84b3);
+  - [Laravel DOMPDF - Download vs Stream](https://github.com/LuizMiguelSR/Projeto-App-Controle-Tarefas/commit/7ffef143e7e96ab7128c121a2469a36313372994);
   </details>
