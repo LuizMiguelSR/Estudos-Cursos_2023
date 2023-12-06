@@ -8,6 +8,29 @@
     <title>Document</title>
 </head>
 <body>
-    Teste Live Server
+
+    <div id="app">
+       {{ mensagem }} 
+    </div>
+
+    <script>
+        // Forma 01
+        /* options = {
+            el: '#app', // # por id e . para class
+            data: { // Variáveis e atributos reativos
+                mensagem: 'Primeiro Template controlado pelo Vue'
+            } 
+        }
+        const vm = new Vue(options); // ViewModel */
+
+        // Forma 02
+        const vm = new Vue({
+            el: '#app', 
+            data: {
+                mensagem: 'Primeiro Template controlado pelo Vue'
+            } 
+        });
+
+    </script>
 </body>
 </html>
