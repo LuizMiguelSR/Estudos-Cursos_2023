@@ -10,7 +10,11 @@
 <body>
 
     <div id="app">
-       {{ mensagem }} 
+       {{ mensagem }} <br>
+       Valor Total: {{ valorTotal }} <br>
+       Logado: {{ logado }} <br>
+       Hobbie: {{ hobbies[1] }} <br>
+       Perfil: {{ perfil.site }}, {{ perfil.cursos[0].nome }}
     </div>
 
     <script>
@@ -27,7 +31,30 @@
         const vm = new Vue({
             el: '#app', 
             data: {
-                mensagem: 'Primeiro Template controlado pelo Vue'
+                mensagem: 'Primeiro Template controlado pelo Vue',
+                valorTotal: 150.47, // número
+                logado: false, // booleano
+                hobbies: [
+                    'Dormir',
+                    'Colecionar video games antigos',
+                    'Correr',
+                    'Trilhas'
+                ],
+                perfil: {
+                    nome: 'Luiz Miguel',
+                    site: 'https://github.com/LuizMiguelSR/',
+                    idade: 33,
+                    cursos: [
+                        { 
+                            nome: 'Laravel', 
+                            cargaHoraria: '50 horas' 
+                        },
+                        { 
+                            nome: 'Bancos de Dados Relacionais', 
+                            cargaHoraria: '40 horas' 
+                        }
+                    ]
+                }
             } 
         });
 
