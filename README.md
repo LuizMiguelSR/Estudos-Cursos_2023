@@ -234,4 +234,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
 
   - [Iniciando o primeiro front-end Vue](/VueJS/Introducao/index.html);
   - [Primeiro App em Vue (Instância de Vue e o double mustache)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/ccb51efb35cb3d6a2b7c253d259354404f138fbb);
+  - [Explorando um pouco mais a propriedade data](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/d740c5c14155b0392a38eb599b20fbaa69a0a48a);
   </details>
