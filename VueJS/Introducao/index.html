@@ -5,39 +5,32 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="../VueJS2.6/vue.js"></script>
     <title>Document</title>
+    <style>
+        .verde {
+            color: green;
+        }
+    </style>
 </head>
 <body>
 
     <div id="app">
-        {{ somar() }} <br>
-        {{ subtrair() }} <br>
-        {{ multiplicar() }} <br>
-        {{ dividir() }} <br>
+        <a v-bind:href="site">Site</a>
+        <p v-bind:class="cor">Entendendo a diretiva v-bind</p>
+        <input type="text" v-bind:placeholder="instruDePreenchimento" v-bind:value="valor">
+        <input type="checkbox" v-bind:checked="check">
     </div>
 
     <script>
         const vm = new Vue({
             el: '#app', 
             data: {
-                n1: 10,
-                n2: 5
+                site: 'https://github.com/LuizMiguelSR',
+                cor: 'verde',
+                instruDePreenchimento: 'Placeholder diretiva V-Bind',
+                valor: "Entendendo a diretiva v-Bind",
+                check: true
             },
-            methods: {
-                somar: function somar() { // oconvencional
-                    return this.n1 + this.n2;
-                },
-                subtrair: function() { // anônima
-                    return this.n1 - this.n2;
-                },
-                multiplicar: () => { // arrow function
-                    console.log(this); // Objeto window
-                    return 4 * 2; // contexto léxico, ou seja, as arrows functions ficam no escopo global ou de função
-                },
-                dividir() { // forma enxuta de definir os pares de chave/valor
-                    console.log(this); // Objeto Vue
-                    return this.n1 / this.n2;
-                }
-            }
+            methods: {}
         });
 
     </script>
