@@ -9,15 +9,18 @@
         .verde {
             color: green;
         }
+        .negrito {
+            font-weight: bold;
+        }
     </style>
 </head>
 <body>
 
     <div id="app">
-        <a v-bind:href="site">Site</a>
-        <p v-bind:class="cor">Entendendo a diretiva v-bind</p>
-        <input type="text" v-bind:placeholder="instruDePreenchimento" v-bind:value="valor">
-        <input type="checkbox" v-bind:checked="check">
+        <a :href="site">Site</a>
+        <p :class="cor" class="negrito">Entendendo a diretiva V-Bind</p>
+        <input type="text" :placeholder="instruDePreenchimento" :value="valor">
+        <input type="checkbox" :checked="check">
     </div>
 
     <script>
@@ -27,7 +30,7 @@
                 site: 'https://github.com/LuizMiguelSR',
                 cor: 'verde',
                 instruDePreenchimento: 'Placeholder diretiva V-Bind',
-                valor: "Entendendo a diretiva v-Bind",
+                valor: "Entendendo a diretiva V-Bind",
                 check: true
             },
             methods: {}
