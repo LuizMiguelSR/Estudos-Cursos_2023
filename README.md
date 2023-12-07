@@ -238,5 +238,6 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Methods - Adicionando os nossos primeiros métodos a instância Vue](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/feb6b81c22108c1e89cf516c3a2512c507d0c346);
   - [Methods - Recuperando atributos do data](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/dcb3ce19557e2cb7fa7d395efd493641a583d024);
   - [Methods - O contexto léxico das arrow functions e o conflito de nomes](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/cc133b415e32086bd99432cacb997647dd05df4f);
-  - [Diretiva V-Bind - Realizando o bind de atributos de tags HTML](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/cc133b415e32086bd99432cacb997647dd05df4f);
+  - [Diretiva V-Bind - Realizando o bind de atributos de tags HTML](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/349d82dc37e4202263247c670dcfab5944eb3692);
+  - [Diretiva V-Bind - Sintaxe sugar e a sobreposição/encadeamento de valores](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/c84ae4182171a2417ccc14904212bb33bd65d88d);
   </details>
