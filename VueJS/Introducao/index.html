@@ -3,7 +3,6 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script> -->
     <script src="../VueJS2.6/vue.js"></script>
     <title>Document</title>
 </head>
@@ -14,38 +13,27 @@
         {{ subtrair() }} <br>
         {{ multiplicar() }} <br>
         {{ dividir() }} <br>
-        {{ numeroAleatorio() }} <br>
     </div>
 
     <script>
-        // Forma 01
-        /* options = {
-            el: '#app', // # por id e . para class
-            data: { // Variáveis e atributos reativos
-                mensagem: 'Primeiro Template controlado pelo Vue'
-            } 
-        }
-        const vm = new Vue(options); // ViewModel */
-
-        // Forma 02
         const vm = new Vue({
             el: '#app', 
-            data: {},
+            data: {
+                n1: 10,
+                n2: 5
+            },
             methods: {
                 somar: function somar() { // oconvencional
-                    return 4 + 2;
+                    return this.n1 + this.n2;
                 },
                 subtrair: function() { // anônima
-                    return 4 - 2;
+                    return this.n1 - this.n2;
                 },
                 multiplicar: () => { // arrow function
-                    return 4 * 2;
+                    return 4 * 2; // contexto léxico
                 },
                 dividir() { // forma enxuta de definir os pares de chave/valor
-                    return 4 / 2;
-                },
-                numeroAleatorio: function numeroAleatorio() {
-                    return Math.random();
+                    return this.n1 / this.n2;
                 }
             }
         });
