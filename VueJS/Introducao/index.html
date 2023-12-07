@@ -30,9 +30,11 @@
                     return this.n1 - this.n2;
                 },
                 multiplicar: () => { // arrow function
-                    return 4 * 2; // contexto léxico
+                    console.log(this); // Objeto window
+                    return 4 * 2; // contexto léxico, ou seja, as arrows functions ficam no escopo global ou de função
                 },
                 dividir() { // forma enxuta de definir os pares de chave/valor
+                    console.log(this); // Objeto Vue
                     return this.n1 / this.n2;
                 }
             }
