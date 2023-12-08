@@ -243,5 +243,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Utilizando expressões no data binding](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/ac9cf38c8189060fd2993162454bcfa9e50028a1);
   - [Diretiva V-On - Manipulando Eventos](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/e491cbb0b8c2adf4f0af83e9a35c705ebcbc8594);
   - [Methods - Passando parâmetros para os métodos](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/af96bbbede7c341b521bcb31f421d0e399dde74c);
+  - [Diretiva V-On - Capturando os dados do evento ($event)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/b0d5aace4aba64dc2d8fbdd40c3866f9c42c954a);
   </details>
-  
