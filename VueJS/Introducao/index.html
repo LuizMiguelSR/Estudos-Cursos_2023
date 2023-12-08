@@ -15,32 +15,28 @@
     </style>
 </head>
 <body>
-
     <div id="app">
-        <!-- Forma Completa do V-On -->
-        <input type="text" v-on:keyup="imprimirTexto()">
-        <button v-on:click="mensagemAlerta()">Botão</button>
-        <!-- 
-            Forma Abreviada do V-On
-            <input type="text" @keyup="imprimirTexto()"> 
-            <button @click="mensagemAlerta()">Botão</button>
-        -->
+        <input type="text" @keyup="imprimirTexto('Enviando Parâmetro', 5, xyz)"> 
+        <button @click="mensagemAlerta()">Botão</button>
     </div>
 
     <script>
         const vm = new Vue({
             el: '#app', 
             data: {
-                imprimirTexto() {
-                    console.log('Teste')
+                xyz: true
+            },
+            methods: {
+                imprimirTexto(t, n) {
+                    console.log(t)
+                    console.log(n)
+                    console.log(this.xyz)
                 },
                 mensagemAlerta() {
                     alert('Mensagem de Alerta')
                 }
-            },
-            methods: {}
+            }
         });
-
     </script>
 </body>
 </html>
