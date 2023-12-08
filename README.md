@@ -241,4 +241,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Diretiva V-Bind - Realizando o bind de atributos de tags HTML](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/349d82dc37e4202263247c670dcfab5944eb3692);
   - [Diretiva V-Bind - Sintaxe sugar e a sobreposição/encadeamento de valores](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/c84ae4182171a2417ccc14904212bb33bd65d88d);
   - [Utilizando expressões no data binding](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/ac9cf38c8189060fd2993162454bcfa9e50028a1);
+  - [Diretiva V-On - Manipulando Eventos](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/e491cbb0b8c2adf4f0af83e9a35c705ebcbc8594);
   </details>
