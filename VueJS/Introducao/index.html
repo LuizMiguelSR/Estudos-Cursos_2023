@@ -7,31 +7,29 @@
     <title>Document</title>
     <style>
         .verde {
-            color: green;
+            background-color: green;
         }
-        .negrito {
-            font-weight: bold;
+        .azul {
+            background-color: blue;
         }
     </style>
 </head>
 <body>
 
     <div id="app">
-        <a :href="site">Site</a>
-        <p :class="cor" class="negrito">Entendendo a diretiva V-Bind</p>
-        <input type="text" :placeholder="instruDePreenchimento" :value="valor">
-        <input type="checkbox" :checked="check">
+        {{ (2 + 2) / 4 }}
+        <!-- Blocos de códigos mais complexos com if não são possíveis -->
+        <input :value="mensagem" :class="teste ? 'verde' : estilo"> <br>
+        <input :value="2 + 2" type="text">
     </div>
 
     <script>
         const vm = new Vue({
             el: '#app', 
             data: {
-                site: 'https://github.com/LuizMiguelSR',
-                cor: 'verde',
-                instruDePreenchimento: 'Placeholder diretiva V-Bind',
-                valor: "Entendendo a diretiva V-Bind",
-                check: true
+                mensagem: 'Expressão',
+                estilo: 'azul',
+                teste: true
             },
             methods: {}
         });
