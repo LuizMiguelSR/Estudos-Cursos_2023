@@ -17,19 +17,26 @@
 <body>
 
     <div id="app">
-        {{ (2 + 2) / 4 }}
-        <!-- Blocos de códigos mais complexos com if não são possíveis -->
-        <input :value="mensagem" :class="teste ? 'verde' : estilo"> <br>
-        <input :value="2 + 2" type="text">
+        <!-- Forma Completa do V-On -->
+        <input type="text" v-on:keyup="imprimirTexto()">
+        <button v-on:click="mensagemAlerta()">Botão</button>
+        <!-- 
+            Forma Abreviada do V-On
+            <input type="text" @keyup="imprimirTexto()"> 
+            <button @click="mensagemAlerta()">Botão</button>
+        -->
     </div>
 
     <script>
         const vm = new Vue({
             el: '#app', 
             data: {
-                mensagem: 'Expressão',
-                estilo: 'azul',
-                teste: true
+                imprimirTexto() {
+                    console.log('Teste')
+                },
+                mensagemAlerta() {
+                    alert('Mensagem de Alerta')
+                }
             },
             methods: {}
         });
