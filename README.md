@@ -247,4 +247,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Hands on - Praticando com data, methods, template string, v-bind, v-on](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/4e95ad5b01f464868865bc2ef25888e75d8f0c61);
   - [Diretiva V-If - Renderização condicional de elementos HTML](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/e79648ceba311b5c5eb68588b280124d99bcf595);
   - [Diretiva V-Show - Exibição condicional de elementos HTML](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/b481bd314e0ae0a7e2e390395d224292f0738343);
+  - [Diretiva V-HTML - Injetando elementos HTML](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/38a741b2b570560c402b3c78ccc939ce0bcd44fa);
   </details>
