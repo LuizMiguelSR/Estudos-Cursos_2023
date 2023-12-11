@@ -245,5 +245,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Methods - Passando parâmetros para os métodos](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/af96bbbede7c341b521bcb31f421d0e399dde74c);
   - [Diretiva V-On - Capturando os dados do evento ($event)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/b0d5aace4aba64dc2d8fbdd40c3866f9c42c954a);
   - [Hands on - Praticando com data, methods, template string, v-bind, v-on](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/4e95ad5b01f464868865bc2ef25888e75d8f0c61);
-  - [Diretiva V-On - Implementando modificadores](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/6fae498dc30cb10c30a120772c6e91e8c4a6bb2d);
+  - [Selecionando elementos HTML e suas propriedades por ID](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/961cdb167bb43dd56ba0dc1cb73238e0f9379695);
   </details>
