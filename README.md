@@ -251,4 +251,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Diretiva V-Text - Injetando textos](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/992f872b6fd495f8cdc754f5dcd0896bbdc8a0f5);
   - [Diretiva V-Once - Evitando que elementos HTML sejam renderizados novamente](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/78b8cf822b503dcd8354ad95670d1984e79fd036);
   - [Diretiva V-For - Implementando laços de repetição #01](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/cad294cb6d0017b7bbd43f2f5ff790e744fc160c);
+  - [Diretiva V-For - Implementando laços de repetição #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/a28d9bf9cc1a9671ed84454fc24d871a74f146a2);
   </details>
