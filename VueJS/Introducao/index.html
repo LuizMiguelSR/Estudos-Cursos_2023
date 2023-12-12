@@ -16,13 +16,48 @@
             <!-- <li v-for="(curso, key) in cursos">{{ key }} - {{ curso }}</li> -->
             <li v-for="(curso, key) in cursos" v-text="key +' - '+ curso"></li>
         </ul>
+        <hr>
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Titulo</th>
+                    <th>Descrição</th>
+                </tr>
+            </thead>
+            <tbody>
+                <!-- Normal -->
+                <!-- <tr v-for="(curso, chave) in cursos2">
+                    <td>{{ chave }}</td>
+                    <td>{{ curso.titulo }}</td>
+                    <td>{{ curso.descricao }}</td>
+                </tr> -->
+
+                <!-- Com destructuring assignment ES6 -->
+                <tr v-for="({titulo, descricao}, chave) in cursos2"> 
+                    <td>{{ chave }}</td>
+                    <td>{{ titulo }}</td>
+                    <td>{{ descricao }}</td>
+                </tr>
+            </tbody>
+        </table>
     </div>
 
     <script>
         const vm = new Vue({
             el: '#app', 
             data: {
-                cursos: ['Laravel', 'Web Completo', 'Banco de Dados', 'Solid', 'Angular']
+                cursos: ['Laravel', 'Web Completo', 'Banco de Dados', 'Solid', 'Angular'],
+                cursos2: {
+                    1000: { 
+                        titulo: 'Laravel', 
+                        descricao: 'Domine o framework PHP mais poderoso do mundo' 
+                    },
+                    1001: {
+                        titulo: 'Banco de dados',
+                        descricao: 'Aprenda os principais BDs relacionais do mercado'
+                    }
+                }
             },
             methods: {}
         });
