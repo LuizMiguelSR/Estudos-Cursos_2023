@@ -248,4 +248,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Diretiva V-If - Renderização condicional de elementos HTML](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/e79648ceba311b5c5eb68588b280124d99bcf595);
   - [Diretiva V-Show - Exibição condicional de elementos HTML](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/b481bd314e0ae0a7e2e390395d224292f0738343);
   - [Diretiva V-HTML - Injetando elementos HTML](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/38a741b2b570560c402b3c78ccc939ce0bcd44fa);
+  - [Diretiva V-Text - Injetando textos](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/992f872b6fd495f8cdc754f5dcd0896bbdc8a0f5);
   </details>
