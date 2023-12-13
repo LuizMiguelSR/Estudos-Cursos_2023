@@ -253,6 +253,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Diretiva V-For - Implementando laços de repetição #01](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/cad294cb6d0017b7bbd43f2f5ff790e744fc160c);
   - [Diretiva V-For - Implementando laços de repetição #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/a28d9bf9cc1a9671ed84454fc24d871a74f146a2);
   - [Renderização de listas com o atributo Key](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/5fdb3d12f4317e34ed48c9cbcb94ea5e6d653d60);
-  - [Diretia V-For - Implementando laços de repetição #03](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/db84b82f7ae9d2ee9217b1cbbe236e5633c610b7);
-  - [Diretia V-For - Implementando laços de repetição #04](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/117a08918a6a8be652c01b38cf019ccfff31a980);
+  - [Diretiva V-For - Implementando laços de repetição #03](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/db84b82f7ae9d2ee9217b1cbbe236e5633c610b7);
+  - [Diretiva V-For - Implementando laços de repetição #04](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/117a08918a6a8be652c01b38cf019ccfff31a980);
+  - [Trabalhando com a tag Template para renderização condicional e listas](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/eadd5eaabaa468380e311ef7f86caea4dd1bea9f);
   </details>
