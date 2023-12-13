@@ -257,4 +257,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Diretiva V-For - Implementando laços de repetição #04](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/117a08918a6a8be652c01b38cf019ccfff31a980);
   - [Trabalhando com a tag Template para renderização condicional e listas](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/eadd5eaabaa468380e311ef7f86caea4dd1bea9f);
   - [Trabalhando com propriedades computadas (computed) #01](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/5ea976a55d414716ef44cf473f92015db8aa8fe5);
+  - [Trabalhando com propriedades computadas (computed) #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/0c452f79642893bb832fbb4ce2bc26e03a394bb0);
   </details>
