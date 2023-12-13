@@ -252,4 +252,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Diretiva V-Once - Evitando que elementos HTML sejam renderizados novamente](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/78b8cf822b503dcd8354ad95670d1984e79fd036);
   - [Diretiva V-For - Implementando laços de repetição #01](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/cad294cb6d0017b7bbd43f2f5ff790e744fc160c);
   - [Diretiva V-For - Implementando laços de repetição #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/a28d9bf9cc1a9671ed84454fc24d871a74f146a2);
+  - [Renderização de listas com o atributo Key](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/5fdb3d12f4317e34ed48c9cbcb94ea5e6d653d60);
   </details>
