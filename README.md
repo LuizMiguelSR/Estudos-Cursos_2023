@@ -260,4 +260,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Trabalhando com propriedades computadas (computed) #02](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/0c452f79642893bb832fbb4ce2bc26e03a394bb0);
   - [Diretiva V-Model - sincronizando inputs com atributos (two-way-data-binding)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/6d97bbc707ed1da6067759ec64be150549c062ab);
   - [Diretiva V-Model praticando um pouco mais o two way data binding](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/81715d8ad0380bce80191b65dddbc2d60e3ba38d);
+  - [Trabalhando com propriedades observadoras (watch)](https://github.com/LuizMiguelSR/Estudos-Cursos_2023/commit/64153a23cacfa5eabc4da36cad59561c3764e0fa);
   </details>
