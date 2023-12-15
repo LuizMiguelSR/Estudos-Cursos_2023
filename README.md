@@ -267,4 +267,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <summary> APIs, Webservices e Rest </summary>
 
   - [Iniciando o projeto Locadora de Carros](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/tree/master/app_locadora_carros);
+  - [Criando os models, controllers e migrations](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/05b48febbc12aa177a9ec50137c1364923996d71);
   </details>
