@@ -270,4 +270,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Criando os models, controllers e migrations](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/05b48febbc12aa177a9ec50137c1364923996d71);
   - [Configurando uma conexão com banco de dados e implementando as migrations](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/239ee6e37d1939ceea960ab3ca9e0f6ab15344e7);
   - [Entendendo o grupo de rotas Web e API e a importância do Content - Type](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/c510b505d26e6ec98204505422ddb5f66f4296de);
+  - [Rotas e a diferença entre Route::resource e Route::apiResource](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/95b62345c588d40b0d6f012d02ef6f3d89944855);
   </details>
