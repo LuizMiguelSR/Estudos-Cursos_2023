@@ -274,4 +274,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Extra (fix da aula anterior) - Atributo $namespace de RouteServiceProvider](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/d3b4b1febeff875e59d4a34efbfab3281a7f8193);
   - [Criando registros via POST](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/5c83d9b393a493af7e2f9f0b423272e27419b4e0);
   - [Selecionando registros via GET](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/7e5788eb720d3e5ff530fcc96fe64d4cedd68ba0);
+  - [Atualizando registros via PUT e PATCH](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/498a380981cfac901ffa4f9ac5380ea41a85c27a);
   </details>
