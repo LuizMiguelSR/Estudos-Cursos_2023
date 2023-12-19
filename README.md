@@ -276,4 +276,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Selecionando registros via GET](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/7e5788eb720d3e5ff530fcc96fe64d4cedd68ba0);
   - [Atualizando registros via PUT e PATCH](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/498a380981cfac901ffa4f9ac5380ea41a85c27a);
   - [Removendo registros via DELETE](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/138394978a1ded9b7fda740a66fbf436b64d59d7);
+  - [Injetando a instância do Model no Controller e como lidar com o Type Hinting](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/5680d6c61d117dc581f5665467306190639f4b64);
   </details>
