@@ -280,4 +280,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Validações #01 - Controle de fluxos](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/61dc2d3217e522d4725ae5646bcbe694a6aeeffd);
   - [Validações #02 - Status Code HTTP](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/cf5616058d752e770dd9f32be6963bf99ed16015);
   - [Validações #03 - Validando Parâmetros e a importância do Accept](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/8b2677d3afc2fc76f48c03c41555bc8ddca608c5);
+  - [Implementando as regras de validação (Rules) no Model](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/bf399bf9d6aada43f95f931d805734303f8bac61);
   </details>
