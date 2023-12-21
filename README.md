@@ -282,4 +282,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Validações #03 - Validando Parâmetros e a importância do Accept](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/8b2677d3afc2fc76f48c03c41555bc8ddca608c5);
   - [Implementando as regras de validação (Rules) no Model](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/bf399bf9d6aada43f95f931d805734303f8bac61);
   - [Validações #04 - Regras de validação no Update - Lidando com o unique](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/d02ab6a3a250b6924b29fae87f5ce6469ad74507);
+  - [Validações #05 - Regras de validação no Update - Lidando com PUT/PATCH](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/4b21a4fa03d8713036c068d50589b11f8fa03040);
   </details>
