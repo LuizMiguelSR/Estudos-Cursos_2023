@@ -288,4 +288,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Upload de arquivos - Atualizando imagens](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/1f4c3ad50f0dbc133d95d43104b69b24354c2008);
   - [Upload de arquivos - Removendo imagens](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/1f1a1be295eb54c7a893943a93a3ef8f56c20319);
   - [API WebService  Rest para o Resource Modelo](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/fc92f882ab8252633540c85d70e36c7d67f77e23);
+  - [Testando os Endpoints de Modelo](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/efb80600c3450ff9064061201c0bfbc89fc6a4bf);
   </details>
