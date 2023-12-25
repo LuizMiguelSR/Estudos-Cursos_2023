@@ -293,4 +293,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Refactoring do endpoint update de marca e modelo](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/dcd075d8136406e1b3c3cf0effcbe77281db3cac);
   - [Filtros - Selecionando os atributos de retorno](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/4bf643c4c8057e91008b8d3a487ff674544b9222);
   - [Filtros - Obtendo colunas especificas com a instrução with()](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/350ac2f41f888a9b3ee1a27d9f140b0c486e1ac4);
+  - [Filtros - Aplicando condições nas pesquisas #01](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/fbac52a3ac3a938758d95b4f6cee506b6d75fa5b);
   </details>
