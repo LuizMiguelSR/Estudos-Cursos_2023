@@ -290,4 +290,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [API WebService  Rest para o Resource Modelo](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/fc92f882ab8252633540c85d70e36c7d67f77e23);
   - [Testando os Endpoints de Modelo](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/efb80600c3450ff9064061201c0bfbc89fc6a4bf);
   - [Adicionando o relacionamento entre modelos e marcas](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/86336b23d50c65f5dcefd9061c682207d3a632b8);
+  - [Refactoring do endpoint update de marca e modelo](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/dcd075d8136406e1b3c3cf0effcbe77281db3cac);
   </details>
