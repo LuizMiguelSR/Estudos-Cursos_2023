@@ -295,4 +295,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Filtros - Obtendo colunas especificas com a instrução with()](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/350ac2f41f888a9b3ee1a27d9f140b0c486e1ac4);
   - [Filtros - Aplicando condições nas pesquisas #01](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/fbac52a3ac3a938758d95b4f6cee506b6d75fa5b);
   - [Filtros - Aplicando condições nas pesquisas #02](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/fdd22f95db12bb8f033dbf87503311a753ebcac9);
+  - [Filtros - Aplicando os filtros ao resource Marca](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/bbd028a6d8c13a4c749ad016a0676090e779b5ac);
   </details>
