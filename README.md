@@ -297,4 +297,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Filtros - Aplicando condições nas pesquisas #02](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/fdd22f95db12bb8f033dbf87503311a753ebcac9);
   - [Filtros - Aplicando os filtros ao resource Marca](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/bbd028a6d8c13a4c749ad016a0676090e779b5ac);
   - [Repository Design Pattern - Implementando um Repository para Marca](https://web.postman.co/workspace/Estudos~4b5136ec-fc09-4339-8117-ebe7afe64543/request/24708589-858fb27d-efff-4cb5-aa9a-2a6d5a260d5b);
+  - [Repository Design Pattern - Implementando um Repository para Modelo](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/7ff6a3ce31e265252302a4ade219f66009652616);
   </details>
