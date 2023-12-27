@@ -299,4 +299,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Repository Design Pattern - Implementando um Repository para Marca](https://web.postman.co/workspace/Estudos~4b5136ec-fc09-4339-8117-ebe7afe64543/request/24708589-858fb27d-efff-4cb5-aa9a-2a6d5a260d5b);
   - [Repository Design Pattern - Implementando um Repository para Modelo](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/7ff6a3ce31e265252302a4ade219f66009652616);
   - [Repository Design Pattern - Implementando um Abstract Repository](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/82e169b4676bce58ca2d971995d5f8df64a95554);
+  - [API WebService Rest para o Resource Carro](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/8b802e7bfe1da9333c19bc9fba30b75a6813b617);
   </details>
