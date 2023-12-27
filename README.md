@@ -300,4 +300,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Repository Design Pattern - Implementando um Repository para Modelo](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/7ff6a3ce31e265252302a4ade219f66009652616);
   - [Repository Design Pattern - Implementando um Abstract Repository](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/82e169b4676bce58ca2d971995d5f8df64a95554);
   - [API WebService Rest para o Resource Carro](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/8b802e7bfe1da9333c19bc9fba30b75a6813b617);
+  - [API WebService Rest para o Resource Cliente](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/92bd88004f5eba02338c3bbbd2fd01c3e1998c9d);
   </details>
