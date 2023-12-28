@@ -303,3 +303,9 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [API WebService Rest para o Resource Cliente](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/92bd88004f5eba02338c3bbbd2fd01c3e1998c9d);
   - [API WebService Rest para o Resource Locacao](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/6f0c39d71cda8fb87f56060468fae9eba0c4c4c1);
   </details>
+
+  <details>
+  <summary> Autenticação API - Autorização JWT (JSON Web Token) </summary>
+
+  - [Instalando o pacote JWT-Auth](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/01feb7859d96a2cad76d6b1a747b6dfa6560ac88);
+  </details>
