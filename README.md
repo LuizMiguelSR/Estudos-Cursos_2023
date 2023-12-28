@@ -308,4 +308,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   <summary> Autenticação API - Autorização JWT (JSON Web Token) </summary>
 
   - [Instalando o pacote JWT-Auth](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/01feb7859d96a2cad76d6b1a747b6dfa6560ac88);
+  - [Configurando o JWT-Auth no projeto](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/53ccd7e2ee6d8cdd24a571c6a549ac8b357e87e8);
   </details>
