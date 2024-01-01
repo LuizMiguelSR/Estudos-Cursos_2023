@@ -311,4 +311,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Configurando o JWT-Auth no projeto](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/53ccd7e2ee6d8cdd24a571c6a549ac8b357e87e8);
   - [Implementando a interface JWTSubject no model User e o Auth Guard API Driver JWT](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/c6a605148b937fcf2daad96750b2acba80344e11);
   - [Criando as rotas de autenticação e autorização e o AuthController](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/7e1fede6a8a17d4850e38cd647379c214939cf41);
+  - [Implementando o método de login (autenticação) e o JWT (autorização)](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/22dfad039edda0adb49d853646b164ac66f4208f);
   </details>
