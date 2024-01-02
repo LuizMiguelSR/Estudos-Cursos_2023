@@ -314,4 +314,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Implementando o método de login (autenticação) e o JWT (autorização)](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/22dfad039edda0adb49d853646b164ac66f4208f);
   - [Configurando as rotas por autorização](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/bbf0347e288f646da206fe4b6309b1aa960ac60c);
   - [Criando um grupo de rotas protegidas com um prefix de versionamento](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/852f5eadf0bb48788a16a355ed271e61fbc26f8f);
+  - [Recuperando os dados do usuário autenticado com base no JWT](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/f1530789ca753eac97c040bc09cde174be79a5e4);
   </details>
