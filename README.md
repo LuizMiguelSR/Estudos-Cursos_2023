@@ -318,3 +318,9 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Atualizando o JWT (renovando a autorização)](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/da98a8c5c1f67223924fae5a23efa6f5e943a694);
   - [Invalidando o JWT (revogando a autorização)](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/fb7bb9408d3a17332b532717f9bc8f50e1ca1289);
   </details>
+
+  <details>
+  <summary> Aplicação Full Stack Back-end API Laravel com Front-end Vue.JS </summary>
+
+  - [Configurando o VueJS no Laravel](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/caf1211f0ba40e23c3d0e430d7841e15eca2c69d);
+  </details>
