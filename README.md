@@ -328,4 +328,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Implementando a autenticação web (sessão) e API (JWT)](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/21211105a54ae284f41168bdb34d0341c491daf4);
   - [Convertendo a view home em um componente Vue](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/dc328f0d312d73e3bc1361a95bc0bbd7e56ad4b2);
   - [Criando o menu de navegação da aplicação](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/e84fef67a99c687fc1adfa9fedbc94ae329b678e);
+  - [Criando a rota, a view e componente marcas](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/7a2f6445c6bda183a21e6cfed5b34342523bb2e7);
   </details>
