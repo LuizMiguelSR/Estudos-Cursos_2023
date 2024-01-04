@@ -326,4 +326,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Convertendo a view login em um componente Vue](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/9fb4ec4d722ce5c0e4b7a2e8ba91295ca59debbd);
   - [Vue Props - Encaminhando o token csrf para o componente Login](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/b749876b479b4cd93453be14e745177c1953e4e6);
   - [Implementando a autenticação web (sessão) e API (JWT)](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/21211105a54ae284f41168bdb34d0341c491daf4);
+  - [Convertendo a view home em um componente Vue](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/dc328f0d312d73e3bc1361a95bc0bbd7e56ad4b2);
   </details>
