@@ -330,4 +330,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Criando o menu de navegação da aplicação](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/e84fef67a99c687fc1adfa9fedbc94ae329b678e);
   - [Criando a rota, a view e componente marcas](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/7a2f6445c6bda183a21e6cfed5b34342523bb2e7);
   - [Criando o card de busca de registros](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/ff73264a53834d9368c2995706b8df7f0c355429);
+  - [Criando um componente Vue para encapsular inputs](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/c22a41f36438bc89d6a2abe6768aad193af587bc);
   </details>
