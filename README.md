@@ -334,4 +334,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Criando um card de listagem de registros](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/c3e41083f72afc7e4370e6c6aa9dae319d1b57bd);
   - [Criando um componente Vue para tables](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/cede34d2e5f16fe01e75db5e0d74d9c6ff28f572);
   - [Criando um componente Vue para cards](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/60ef42fa5f6fa1273739fe034d8f4235d11860ae);
+  - [Extra - Adicionando um breadcrump](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/7b07c4000203655bd7bffe83ac198e7fdaf62f3f);
   </details>
