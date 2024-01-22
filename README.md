@@ -338,4 +338,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Criando um modal para inclusão de registros de marcas](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/023fe4733547a5114f147eadbc5d86789d1b2aed);
   - [Adicionando os inputs no modal de registros de marcas](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/c92d2d40c2d5c34ebcde7cc2b523bf7bdb3bdba7);
   - [Cadastrando Marcas](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/f080bf5c54724d1801dd7afcc9324bcd5e1be49a);
+  - [Importante - Adicionando o token de autorização ao cabeçalho das requisições](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/d82a46ffcbb4a0a0bb3b337fedf0ae44aa241b1e);
   </details>
