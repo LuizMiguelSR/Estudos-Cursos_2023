@@ -339,4 +339,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Adicionando os inputs no modal de registros de marcas](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/c92d2d40c2d5c34ebcde7cc2b523bf7bdb3bdba7);
   - [Cadastrando Marcas](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/f080bf5c54724d1801dd7afcc9324bcd5e1be49a);
   - [Importante - Adicionando o token de autorização ao cabeçalho das requisições](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/d82a46ffcbb4a0a0bb3b337fedf0ae44aa241b1e);
+  - [Corrigindo o erro de inclusão do popper.js.map](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/544452ba9983fd1776049cc1f6d156750cf69ae1);
   </details>
