@@ -342,4 +342,6 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Corrigindo o erro de inclusão do popper.js.map](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/544452ba9983fd1776049cc1f6d156750cf69ae1);
   - [Configurando os alertas de sucesso e erro do cadastro de marcas #01](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/2ca50b77c761b502601d2589b1a074395370dda8);
   - [Configurando os alertas de sucesso e erro do cadastro de marcas #02](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/9fa5112b996ad5cf3aa8158eb35921e2db4c47b2);
+  - [Extra - Evitando dependências nos componentes Vue](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/9fa5112b996ad5cf3aa8158eb35921e2db4c47b2);
+  - [Recuperando os registros de marcas](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/0618d6cf3563e5736cd3f7060d33bb467ef184b1);
   </details>
