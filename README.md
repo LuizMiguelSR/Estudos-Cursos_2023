@@ -345,4 +345,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Extra - Evitando dependências nos componentes Vue](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/9fa5112b996ad5cf3aa8158eb35921e2db4c47b2);
   - [Recuperando os registros de marcas](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/0618d6cf3563e5736cd3f7060d33bb467ef184b1);
   - [Adicionando os cabeçalhos nas requisições de marcas](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/35c8ef6f6ca98ad5f6900e2d2f004594f7c7890b);
+  - [Listando os registros de marcas](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/035e540995e0c73159681714f10911793a1a6c57);
   </details>
