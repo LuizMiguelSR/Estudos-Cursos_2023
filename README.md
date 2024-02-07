@@ -349,4 +349,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Extra Evitando dependências no componente Table](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/c7c7eded3f0003e12a6fafc80725b3d040f32aaf);
   - [Extra - Adicionando metadados aos títulos da listagem](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/5e9d5c8093de03206be5e7bc7dd5be728ffb3c83);
   - [Adicionando paginação de registro #01](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/9f8fae6cb8255a3e7cdcb205c74032f123c31b12);
+  - [Corrigindo o atributo marcas](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/9c9faf8928ac95531349333a72462b9fdd96f5ff);
   </details>
