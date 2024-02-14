@@ -352,4 +352,6 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Corrigindo o atributo marcas](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/9c9faf8928ac95531349333a72462b9fdd96f5ff);
   - [Adicionando paginação de registro #02](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/582d1e2b8b1010a4d06fd4947d2b055f10d864b2);
   - [Adicionando paginação de registro #03](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/911b589c409098fa1f9a713dc68bde963a0c9a38);
+  - [Buscando registros #01](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/911b589c409098fa1f9a713dc68bde963a0c9a38);
+  - [Buscando registros #02](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/d5305951bd234157f72765f044767445ba1cd24f);
   </details>
