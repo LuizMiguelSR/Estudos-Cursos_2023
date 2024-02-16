@@ -356,4 +356,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Buscando registros #02](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/d5305951bd234157f72765f044767445ba1cd24f);
   - [Adicionando os botões para visualização, atualização e remoção de registros](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/7d0510cb132ab2236f4effb8f290bda5ba60bdff);
   - [Implementando o modal de visualização da marca #01](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/a3e53698ff16e3660dde08a4625f24650d8d5111);
+  - [Implementando o modal de visualização da marca #02](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/5786edd3c3bdb3469a44448955c7cd932b7089f5);
   </details>
