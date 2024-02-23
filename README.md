@@ -360,4 +360,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Instalando e configurando o Vuex no projeto](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/77fbf039f8b4160888c4abbf0c95889331644db4);
   - [Implementando o modal de visualização da marca #03](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/86ba4aa24b4fd05159fcf6907d840340427c9575);
   - [Implementando o modal de remoção de registros #01](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/b3d4f514df2cf3c7adea0ab2521c9122a85e02f8);
+  - [Implementando o modal de remoção de registros #02](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/208a889e83dbec7f817c880a1430fdc1477eda57);
   </details>
