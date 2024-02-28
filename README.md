@@ -363,4 +363,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Implementando o modal de remoção de registros #02](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/208a889e83dbec7f817c880a1430fdc1477eda57);
   - [Implementando o modal de remoção de registros #03](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/fe4f9649bffd31c2ad56471325ff215b3ca02295);
   - [Implementando o modal de atualização de registros #01](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/4bdc9e3476b2313b71b2a079a1af0041e35b0962);
+  - [Implementando o modal de atualização de registros #02](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/b4123037cc89f0fac851356f1471306cd9d9bfb9);
   </details>
