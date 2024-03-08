@@ -368,4 +368,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Implementando o modal de atualização de registros #03](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/596268ad8e766845389890dfca8f48ef2de08503);
   - [Adicionando filtros para formatação de datas](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/eb2cb5be6e28c70069cba87860a1c8a3c53c054f);
   - [Axios - Interceptando o request e configurando os headers](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/065668c122055efd7b8ae4f42b056b6737ac6448);
+  - [Axios - Interceptando e configurando os headers](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/0b68a7601d668ba48692fc7f6da97885539a496e);
   </details>
