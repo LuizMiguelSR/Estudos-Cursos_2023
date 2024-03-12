@@ -371,3 +371,9 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Axios - Interceptando e configurando os headers](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/0b68a7601d668ba48692fc7f6da97885539a496e);
   - [Axios - Interceptando o response e realizando um auto refresh do JWT](https://github.com/LuizMiguelSR/Projeto-Locadora-De-Carros/commit/68ed72da7d65cb9318ff3ee383a2c945780b0875);
   </details>
+
+  <details>
+  <summary> Armazenamento em memória com Redis (Laravel Cache) </summary>
+
+  - [Iniciando o projeto Portal de Notícias](https://github.com/LuizMiguelSR/Projeto-Portal-Noticias/commit/c9ba5d8cad75e8e875f0846f96a818cce8d1d436);
+  </details>
