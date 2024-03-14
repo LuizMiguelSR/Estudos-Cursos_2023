@@ -377,4 +377,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
 
   - [Iniciando o projeto Portal de Notícias](https://github.com/LuizMiguelSR/Projeto-Portal-Noticias/commit/c9ba5d8cad75e8e875f0846f96a818cce8d1d436);
   - [Iniciando o banco de dados e as migrations](https://github.com/LuizMiguelSR/Projeto-Portal-Noticias/commit/e307d3af4ba527304d1d05b45d413be93c1869a6);
+  - [Implementando a Factory e a Seeder para popular a tabela notícias](https://github.com/LuizMiguelSR/Projeto-Portal-Noticias/commit/d9308c25ed4538ebea846b2f386163ba6b22854c);
   </details>
