@@ -379,4 +379,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Iniciando o banco de dados e as migrations](https://github.com/LuizMiguelSR/Projeto-Portal-Noticias/commit/e307d3af4ba527304d1d05b45d413be93c1869a6);
   - [Implementando a Factory e a Seeder para popular a tabela notícias](https://github.com/LuizMiguelSR/Projeto-Portal-Noticias/commit/d9308c25ed4538ebea846b2f386163ba6b22854c);
   - [Implementando a consulta e a visualização das notícias](https://github.com/LuizMiguelSR/Projeto-Portal-Noticias/commit/150d089f935154dbd07ec1dbac7998c30f9f1007);
+  - [Instalando o pacote Debugbar para monitorar o tempo de execução das querys](https://github.com/LuizMiguelSR/Projeto-Portal-Noticias/commit/1cd421a72c8c384fd29be6adb4d94027599f6fc9);
   </details>
