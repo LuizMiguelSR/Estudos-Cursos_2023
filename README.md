@@ -381,4 +381,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Implementando a consulta e a visualização das notícias](https://github.com/LuizMiguelSR/Projeto-Portal-Noticias/commit/150d089f935154dbd07ec1dbac7998c30f9f1007);
   - [Instalando o pacote Debugbar para monitorar o tempo de execução das querys](https://github.com/LuizMiguelSR/Projeto-Portal-Noticias/commit/1cd421a72c8c384fd29be6adb4d94027599f6fc9);
   - [Instalando e configurando o pacote Predis para conectar o Laravel com o Redis](https://github.com/LuizMiguelSR/Projeto-Portal-Noticias/commit/43f7ce57be982368d1b69f30ede4d1f7366ffe65);
+  - [Armazenando consultas em cache #01](https://github.com/LuizMiguelSR/Projeto-Portal-Noticias/commit/ebed2333d2dd250878b83704e16a6adf5712d4d1);
   </details>
