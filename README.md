@@ -4,7 +4,7 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
 
 ## **💻 Frameworks**
 
-- ### **Udemy - 📚 Desenvolvimento Web Avançado com PHP, Laravel e VueJs (Em andamento)**
+- ### **Udemy - 📚 Desenvolvimento Web Avançado com PHP, Laravel e VueJs (Finalizado)**
 
   <details>
   <summary> Introudção a rotas, controllers e views </summary>
@@ -383,4 +383,5 @@ Repositório destinado a exercícios e exemplos dos cursos, relacionados a progr
   - [Instalando e configurando o pacote Predis para conectar o Laravel com o Redis](https://github.com/LuizMiguelSR/Projeto-Portal-Noticias/commit/43f7ce57be982368d1b69f30ede4d1f7366ffe65);
   - [Armazenando consultas em cache #01](https://github.com/LuizMiguelSR/Projeto-Portal-Noticias/commit/ebed2333d2dd250878b83704e16a6adf5712d4d1);
   - [Armazenando consultas em cache #02](https://github.com/LuizMiguelSR/Projeto-Portal-Noticias/commit/5ae563406ae13b2d5203839cd8f57da1d0f4e5d8);
+  - [Cache remember](https://github.com/LuizMiguelSR/Projeto-Portal-Noticias/commit/42b0d5290208b77b92b1369819e2e1cb7110ea53);
   </details>
